@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Alejandra P. Bonilla Mena"
 title_separator          : "-"
-name                     : &name "Alejandra P. Bonilla Mena."
-description              : &description "personal description"
+name                     : &name "Alejandra P. Bonilla Mena"
+description              : &description "Ph.D. student at the Pennsylvania State University. Ecuadorian. Interested on Real Estate Financialization in Latin America"
 url                      : https://abonillamena.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abonillamena.github.io"
@@ -102,14 +102,12 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
+  linkedin         : "https://www.linkedin.com/in/alejandra-bonilla-mena-1a67ba137/"
+  orcid            : "https://orcid.org/0000-0001-7054-0481"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "aabonillamena"
   vine             :
   weibo            :
   xing             :
