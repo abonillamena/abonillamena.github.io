@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alejandra P. Bonilla Mena"
 title_separator          : "-"
-name                     : &name "Alejandra P. Bonilla Mena"
+name                     : &name "Alejandra P. Bonilla Mena."
 description              : &description "personal description"
 url                      : https://abonillamena.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
