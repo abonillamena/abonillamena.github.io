@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Geography and minor in Territorial Planning, Pontifical Catholic University, Quito-Ecuador, 2016
+* M.A. in Urban Planning, Latin American School for Social Sciences, Quito-Ecuador, 2020
+* Ph.Ding in Geography, The Pennsylvania State University, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2023: Teacher Assistant
+  * The Pennsylvania State University
+  * Class: GEOG 30N. Environment and Society in a Changing World (web)
+  * Duties included: Grading
+  * Supervisor: Dr. Trevor Birkenholtz
+ 
+* Winter 2022: Research Assistant
+  * The Pennsylvania State University
+  * Duties included: Literature review and case study exploration 
+  * Supervisor: Dr. Emily Rosenman
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Fall 2022: Teacher Assistant
+  * The Pennsylvania State University
+  * Class: GEOG 2N. Apocalyptic Geographies
+  * Duties included: Discussion sections, grading, office hours
+  * Supervisor: Dr. Josh Inwood
+
 Skills
 ======
-* Skill 1
+* Quantive analysis: RStudio basics, Git, 
+* Qualitative analysis: Atlat.ti
+* Spatial analysis: ArcGIS, QGIS, GeoDA
+
 * Skill 2
   * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * 
 
 Publications
 ======

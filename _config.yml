@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Alejandra P. Bonilla Mena"
   avatar           : "profile.jpg"
-  bio              : "Ph.D. student at the Pennsylvania State University. Ecuadorian. Interested on Real Estate Financialization in Latin America"
-  location         : "University Park, PA"
+  bio              : "Ph.D. student at the Pennsylvania State University. Ecuadorian. Interested on Real Estate Financialization in Latin America."
+  location         : 
   employer         : "The Pennsylvania State University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"

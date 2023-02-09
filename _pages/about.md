@@ -10,14 +10,14 @@ redirect_from:
 
 Hi! Welcome to my personal website.
 
-I am Alejandra and I am a second year PhD geography PhD student at the Pennsylvania State University. I did my master in Urban Studies at the Latin American School for Social Sciences and my undergrad in Geography at the Pontifical Catholic University in Ecuador.  This upcoming semester I will start my fieldwork in Quito, Ecuador and Santiago, Chile regardin real estate financialization.
+I am Alejandra and I am a second year doctoral geography student at the Pennsylvania State University. I did my master in Urban Studies at the Latin American School for Social Sciences and my undergrad in Geography at the Pontifical Catholic University in Ecuador.  This upcoming semester I will start my fieldwork in Quito, Ecuador and Santiago, Chile regardin real estate financialization.
 
 
 Main interests
 ======
 Latin America, real estate markets, financialization, comparative urbanism.
 
-Commitee
+Committee
 ======
 PhD. Emily Rosenman
 PhD. Louisa Holmes
