@@ -7,11 +7,11 @@ Excerpt: 'In the past decades, earthquakes have left millions of people without 
 The research aims to understand the implications of the top-down management reconstruction process and its impacts, five years after the earthquake, using as critical lens the inhabitants, the UN-Habitat principles for adequate housing and the Build Back Better principles of the Sendai Framework for post-disaster reconstruction. The work combines policy review, risk spatial analysis, semi-structured interviews, and constructive and architectural analysis. The article is the outcome of a transdisciplinary multi-scalar approach that analyses key long-term social implications, the quality and the spatial adaptations of the built environment. It finally offers some crucial recommendations for the long-term wellbeing of post-disaster housing strategies.'
 Date: 2021
 Journal: 'Habitat International'
-Paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+Paperurl: 'https://doi.org/10.1016/j.habitatint.2021.102433'
 citation: 'Testori, G., Janoschka, M., Bonilla-Mena, A. & Iuorio, O. (2009). &quot;Title 1.&quot; <i>Journal</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Paper](https://www.sciencedirect.com/science/article/pii/S0197397521001223)
 
-Recommended citation: Your Name, You. (2009). "Ecuadorian housing resettlements five years after the 2016 earthquake: A critical analysis" <i>Journal 1</i>. 1(1).
+Recommended citation: Testori, Giulia, Michael Janoschka, Alejandra Bonilla-Mena, and Ornella Iuorio. 2021. “Ecuadorian Housing Resettlements Five Years after the 2016 Earthquake: A Critical Analysis.” Habitat International 117: 102433. https://doi.org/10.1016/j.habitatint.2021.102433.
+
