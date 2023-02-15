@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teacher assistant - Fall 2022"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "The Pennsylvania State University, Department of Geography"
+date: 2022-08-01
+location: "State College, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+General Education Class. GEOG 2N. Apocalyptic Geographies.
 
 Heading 1
 ======

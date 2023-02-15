@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 2"
+title: "Teacher Assistant - Spring 2023"
 collection: teaching
 type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+permalink: /teaching/2023-spring-teaching-1
+venue: "The Pennsylvania State University, Department of Geography"
+date: 2023-01-01
+location: "State College, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+General Education Class. GEOG 30N. Environment and Society in a Changing World.
 
 Heading 1
 ======
