@@ -1,7 +1,7 @@
 ---
 title: "Teacher Assistant - Spring 2023"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2023-spring-teaching-1
 venue: "The Pennsylvania State University, Department of Geography"
 date: 2023-01-01
