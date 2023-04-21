@@ -11,5 +11,5 @@ citation: 'Duran, Gustavo, Manuel Bayon, Alejandra Bonilla Mena, and Michael Jan
 ---
 
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Paper] (https://revistainvi.uchile.cl/index.php/INVI/article/view/63302/66833)
 
