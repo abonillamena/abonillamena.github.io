@@ -85,10 +85,9 @@ author:
   bio              : "Ph.D. student at the Pennsylvania State University. Ecuadorian. Interested on Real Estate Financialization in Latin America."
   location         : 
   employer         : "The Pennsylvania State University"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Alejandra-Bonilla-Mena"
+  googlescholar    : 
+  email            : "apb6399@psu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/abonillamena"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/alejandra-bonilla-mena-1a67ba137/"
+  linkedin         : "https://www.linkedin.com/in/alejandra-bonilla-mena-1a67ba137"
   orcid            : "https://orcid.org/0000-0001-7054-0481"
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
