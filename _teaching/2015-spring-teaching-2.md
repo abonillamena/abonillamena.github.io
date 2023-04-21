@@ -10,11 +10,3 @@ location: "State College, PA"
 
 General Education Class. GEOG 30N. Environment and Society in a Changing World.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======

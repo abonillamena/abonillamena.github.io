@@ -10,11 +10,3 @@ location: "State College, PA"
 
 General Education Class. GEOG 2N. Apocalyptic Geographies.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
