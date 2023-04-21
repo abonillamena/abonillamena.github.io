@@ -15,34 +15,41 @@ Education
 * M.A. in Urban Planning, Latin American School for Social Sciences, Quito-Ecuador, 2020
 * Ph.Ding in Geography, The Pennsylvania State University, 2025 (expected)
 
-Work experience
+Research experience
 ======
-* Spring 2023: Teacher Assistant
-  * The Pennsylvania State University
-  * Class: GEOG 30N. Environment and Society in a Changing World (web)
-  * Duties included: Grading
-  * Supervisor: Dr. Trevor Birkenholtz
- 
 * Winter 2022: Research Assistant
   * The Pennsylvania State University
-  * Duties included: Literature review and case study exploration 
+  * Duties included: Literature and documentary review of the Project Eolica del Sur, Oaxaca Mexico for a working paper.
   * Supervisor: Dr. Emily Rosenman
 
-* Fall 2022: Teacher Assistant
+* Summer 2022: Research Assistant
   * The Pennsylvania State University
-  * Class: GEOG 2N. Apocalyptic Geographies
-  * Duties included: Discussion sections, grading, office hours
-  * Supervisor: Dr. Josh Inwood
+  * Duties included: Urban Geography syllabus and class co-preparation.
+  * Supervisor: Dr. Emily Rosenman
+
+* Spring 2022: Research Assistant
+  * The Pennsylvania State University
+  * Duties included: Literature review on geography, risk, and finance.
+  * Supervisor: Dr. Emily Rosenman
+
+* January 2020 - August 2021: Researcher
+  * The Latin American School for Social Sciences (FLACSO) and the University of Leeds
+  * Project NOVel Approach for Vital Infrastructure post DisAster
+  * Duties included: Focus groups, semi-structured interviews, archival review, literature review regarding social housing and risk, and spatial analysis.
+  * PI: Dr. Dr. Ornella Luorio and Dr. Michael Janoschka.
+
+* January 2019 - December 2020: Researcher
+  * The Latin American School for Social Sciences (FLACSO)
+  * Project Contested Cities Ecuador
+  * Duties included: Analysis of housing policies and citizen participation; focus groups and semi-structured interviews; collective mapping and spatial analysis. In charge of the scientific publications of the project; and responsible for the organization and writing of the booklets of the seven cities under study, which were delivered to the
+population, decision-makers, and the public.
+  * PI: Dr. Gustavo Duran
 
 Skills
 ======
 * Quantive analysis: RStudio basics, Git, 
 * Qualitative analysis: Atlat.ti
 * Spatial analysis: ArcGIS, QGIS, GeoDA
-
-* Skill 2
-  * Sub-skill 2.1
-  * 
 
 Publications
 ======
@@ -62,6 +69,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and leadership 2022-2023
 ======
-* Currently signed in to 43 different slack teams
+* Treasurer, Graduate Student Representative, The Pennsylvania State University
+* Secretary, Supporting Women in Geography, The Pennsylvania State University
+* Activity Director, Latinx Specialty Group, American Association of Geographers
