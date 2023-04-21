@@ -7,8 +7,8 @@ date: 2020-06-12
 venue: 'ISPRS International Journal of Geo-Information'
 paperurl: 'https://www.mdpi.com/2220-9964/9/7/453'
 citation: 'Cabrera-Barona, P., Bayon, M., Duran, G., Bonilla-Mena, A., & Mejia, V. (2020). Generating and Mapping Amazonian Urban Regions Using a Geospatial Approach. ISPRS International Journal of Geo-Information. 9(7):453. https://doi.org/10.3390/ijgi9070453'
+
 ---
 
 
-[Paper] (https://www.mdpi.com/2220-9964/9/7/453)
 
